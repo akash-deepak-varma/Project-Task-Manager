@@ -1,7 +1,6 @@
 # Task Manager Web Application
-This is a Project Where i work on Backend of the Simple Browser Application(Task Manager) using using Node.js And Express.js.
 
-
+This is a project where I work on the backend of a simple browser application (Task Manager) using Node.js and Express.js.
 
 A simple web application for managing tasks, built with Node.js, Express.js, and MongoDB.
 
@@ -36,6 +35,3 @@ This Task Manager application allows users to create, read, update, and delete t
 1. Clone the repository:
    ```bash
    git clone https://github.com/akash-deepak-varma/Project-Task-Manager.git
-
-### Build
-1. Create .env File that connect to your own Data base to connect. Which we Will be using [Here](#Final/app.js)
