@@ -370,6 +370,7 @@ form > :last-child {
 }
 .task-completed h5 {
   text-decoration: line-through;
+  color: #842029;
 }
 .task-completed .fa-check-circle {
   visibility: visible;
