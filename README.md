@@ -35,5 +35,5 @@ This Task Manager application allows users to create, read, update, and delete t
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/akash-deepak-varma/Project-Task-Manager.git
 
