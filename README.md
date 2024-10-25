@@ -37,3 +37,5 @@ This Task Manager application allows users to create, read, update, and delete t
    ```bash
    git clone https://github.com/akash-deepak-varma/Project-Task-Manager.git
 
+### Build
+1. Create .env File that connect to your own Data base to connect. Which we Will be using [Here](#Final/app.js)
