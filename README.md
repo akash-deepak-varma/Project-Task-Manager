@@ -4,7 +4,7 @@ This is a project where I work on the backend of a simple browser application (T
 
 A simple web application for managing tasks, built with Node.js, Express.js, and MongoDB.
 
-![Task Manager Screenshot](D:\AKASH\new\Study\Projects\Task-Manager\Files\MainPic.png) <!-- Replace with your image path -->
+![Task Manager Screenshot](Files/MainPic.png) <!-- Replace with your image path -->
 
 ## Table of Contents
 - [Project Overview](#project-overview)
